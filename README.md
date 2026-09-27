@@ -40,7 +40,7 @@ Through this project, I practiced:
 
 ## 🚀 Live Demo
 
-[View the live website](#) *(أضيفي رابط موقعك هنا على GitHub Pages)*
+[View the live website](https://fatimahghallab2-boop.github.io/prayer-times-website/)
 
 ## 👩🏻‍💻 Author
 
