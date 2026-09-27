@@ -33,11 +33,6 @@ Through this project, I practiced:
 - Creating modular JavaScript functions.
 - Integrating third-party icon libraries and styling responsive layouts from scratch.
 
-## 📱 Preview
-
-![Prayer Times Preview](https://raw.githubusercontent.com/fatimahghallab2-boop/prayer-times/main/screenshoot.png)
-
-
 ## 🚀 Live Demo
 
 [View the live website](https://fatimahghallab2-boop.github.io/prayer-times-website/)
