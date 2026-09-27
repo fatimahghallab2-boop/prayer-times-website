@@ -35,7 +35,7 @@ Through this project, I practiced:
 
 ## 📱 Preview
 
-![Prayer Times Preview] ![Uploading screenshoot.png…]()
+![Prayer Times Preview](https://raw.githubusercontent.com/fatimahghallab2-boop/prayer-times/main/screenshoot.png)
 
 
 ## 🚀 Live Demo
