@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prayer Time</title>
+
+    <link href="style.css" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+</head>
+<body>
+     <!-- City selector -->
+    <section id="city">
+        <select id="city-selected" onchange="getCityName()"></select>
+    </section>
+    <!--hedar-->
+    <header>
+        <h1 id="cityName"></h1>
+    </header>
+     <!-- dates -->
+    <section id="date">
+        <div id="daydate"></div>
+    </section>
+    
+   
+    <!-- prayer times table -->
+    <section id="timetable">
+        <ul id="prayertimes"></ul>
+    </section>
+    
+
+
+    <script src="./node_modules/axios/dist/axios.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
