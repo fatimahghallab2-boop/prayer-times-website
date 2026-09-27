@@ -35,8 +35,8 @@ Through this project, I practiced:
 
 ## 📱 Preview
 
-![Prayer Times Preview] (![Uploading screenshoot.png…]()
-)
+![Prayer Times Preview] ![Uploading screenshoot.png…]()
+
 
 ## 🚀 Live Demo
 
